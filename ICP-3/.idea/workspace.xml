@@ -23,6 +23,7 @@
   <component name="ProjectId" id="1XRTvv4XSqelHpBRWR72gcymDCy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -132,7 +133,8 @@
       <updated>1581008140364</updated>
       <workItem from="1581008141440" duration="12929000" />
       <workItem from="1581086240170" duration="13543000" />
-      <workItem from="1582855156228" duration="1257000" />
+      <workItem from="1582855156228" duration="1260000" />
+      <workItem from="1583001518812" duration="618000" />
     </task>
     <servers />
   </component>
@@ -144,7 +146,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
